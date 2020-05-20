@@ -1,14 +1,3 @@
-<meta name="generator" content="Jekyll v3.8.5" />
-<meta property="og:title" content="/" />
-<meta property="og:locale" content="en_US" />
-<meta name="description" content="A jekyll theme inspired by linux consoles for hackers, developers and script kiddies." />
-<meta property="og:description" content="A jekyll theme inspired by linux consoles for hackers, developers and script kiddies." />
-<link rel="canonical" href="https://b2a3e8.github.io/jekyll-theme-console/" />
-<meta property="og:url" content="https://b2a3e8.github.io/jekyll-theme-console/" />
-<meta property="og:site_name" content="b2a3e8.github.io" />
-<script type="application/ld+json">
-{"headline":"/","@type":"WebSite","url":"https://b2a3e8.github.io/jekyll-theme-console/","name":"b2a3e8.github.io","description":"A jekyll theme inspired by linux consoles for hackers, developers and script kiddies.","@context":"http://schema.org"}</script>
-<!-- End Jekyll SEO tag -->
 <link rel="stylesheet" type="text/css" href="/jekyll-theme-console/assets/main-dark.css"></head>
 <body>
     <div class="container"><header>
