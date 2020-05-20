@@ -3,8 +3,8 @@
 # google_analytics: UA-NNNNNNNN-N
 
 header_pages:
-#  - index.md
- - peter.html
+  - index.md
+#  - peter.html
 #  - about.md
 
 footer: 'follow us on <a href="https://twitter.com/">twitter</a>'
