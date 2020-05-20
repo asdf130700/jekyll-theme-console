@@ -10,6 +10,7 @@ footer: 'follow us on <a href="https://twitter.com/">twitter</a>'
 
 style: light # dark (default) or light
 listen_for_clients_preferred_style: true # true or false (default)
+url : http://asdf130700.github.io
 
 plugins:
   - jekyll-seo-tag
