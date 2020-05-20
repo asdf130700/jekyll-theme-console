@@ -3,7 +3,7 @@
   <div class="menu">
     <ul>
       {%- for path in page_paths -%}
-        {%- assign my_page = https://asdf130700.github.io | where: "path", path | first -%}
+        {%- assign my_page = my_page.url | where: "path", path | first -%}
         {%- if my_page.title -%}
         <li><a href="{{ https://asdf130700.github.io/. | relative_url }}">{{ my_page.title | escape }}</a></li>
         {%- endif -%}
