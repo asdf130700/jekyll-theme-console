@@ -1,9 +1,47 @@
----
-title: /
-layout: home
-permalink: /
----
+<!DOCTYPE html>
+<html lang="en"><head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+  <title>/peter</title><!-- Begin Jekyll SEO tag v2.5.0 -->
+<meta name="generator" content="Jekyll v3.8.5" />
+<meta property="og:title" content="/peter" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="A jekyll theme inspired by linux consoles for hackers, developers and script kiddies." />
+<meta property="og:description" content="A jekyll theme inspired by linux consoles for hackers, developers and script kiddies." />
+<link rel="canonical" href="https://b2a3e8.github.io/jekyll-theme-console/peter" />
+<meta property="og:url" content="https://b2a3e8.github.io/jekyll-theme-console/peter" />
+<meta property="og:site_name" content="b2a3e8.github.io" />
+<script type="application/ld+json">
+{"headline":"/peter","@type":"WebPage","url":"https://b2a3e8.github.io/jekyll-theme-console/peter","description":"A jekyll theme inspired by linux consoles for hackers, developers and script kiddies.","@context":"http://schema.org"}</script>
+<!-- End Jekyll SEO tag -->
+<link rel="stylesheet" type="text/css" href="/jekyll-theme-console/assets/main-dark.css"></head>
+<body>
+    <div class="container"><header>
+  <div class="menu">
+    <ul><li><a href="/jekyll-theme-console/">/</a></li><li><a href="/jekyll-theme-console/peter">/peter</a></li><li><a href="/jekyll-theme-console/about/">/about</a></li><li><a href="/jekyll-theme-console/contact">/contact</a></li></ul>
+  </div>
+</header>
+<main>
+      <h1 id="peter-principle">Peter principle</h1>
 
-# Lorem ipsum
+<p>The Peter principle is a concept in management developed by Laurence J. Peter, which observes that people in a hierarchy tend to rise to their “level of incompetence”. In other words, an employee is promoted based on their success in previous jobs until they reach a level at which they are no longer competent, as skills in one job do not necessarily translate to another. The concept was elucidated in the 1969 book The Peter Principle by Peter and Raymond Hull.</p>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+<p>The Peter Principle was published by William Morrow and Company in 1969. Peter and Hull intended the book to be satire, but it became popular as it was seen to make a serious point about the shortcomings of how people are promoted within hierarchical organizations. Hull wrote the text, based on Peter’s research.</p>
+
+<p>The Peter principle has been the subject of much later commentary and research.</p>
+
+<h2 id="what-does-it-mean">What does it mean?</h2>
+
+<p>The Peter principle states that a person who is competent at their job will earn promotion to a more senior position which requires different skills. If the promoted person lacks the skills required for their new role, then they will be incompetent at their new level, and so they will not be promoted again. But if they are competent at their new role, then they will be promoted again, and they will continue to be promoted until they eventually reach a level at which they are incompetent. Being incompetent, they do not qualify to be promoted again, and so remain stuck at that final level for the rest of their career (termed “Final Placement” or “Peter’s Plateau”). This outcome is inevitable, given enough time and assuming that there are enough positions in the hierarchy to promote competent employees to. The “Peter Principle” is therefore expressed as: “In a hierarchy every employee tends to rise to his level of incompetence.” This leads to Peter’s Corollary: “In time, every post tends to be occupied by an employee who is incompetent to carry out its duties.” Hull calls the study of how hierarchies work “hierarchiology.”</p>
+
+<h2 id="references">References</h2>
+<p><a href="https://wikipedia.org/wiki/Peter_principle">wikipedia.org/wiki/Peter_principle</a></p>
+
+
+    </main><footer>
+  follow us on <a href="https://twitter.com/">twitter</a>
+</footer>
+</div>
+  </body>
+</html>
