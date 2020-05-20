@@ -5,9 +5,9 @@ url: "https://b2a3e8.github.io"
 
 header_pages:
   - index.md
-  - peter.md
-  - about.md
-  - contact.md
+  - home.md
+  - aboutme.md
+  - etc.md
 
 style: dark
 
