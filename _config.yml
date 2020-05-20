@@ -4,8 +4,9 @@
 
 header_pages:
   - index.md
-#  - peter.html
-#  - about.md
+  - aboutme.md
+  - fork.md
+  - etc.md
 
 footer: 'follow us on <a href="https://twitter.com/">twitter</a>'
 
