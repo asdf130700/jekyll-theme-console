@@ -10,15 +10,15 @@ permalink: /
 email : rlfkem1617@gmail.com
 url : http://github.com/asdf130700
 
-
--<a href="/asdf130700.github.io/index">/home</a>
--<a href="/asdf130700.github.io/aboutme">/aboutme</a>
--<a href="/asdf130700.github.io/fork">/fork</a>
--<a href="/asdf130700.github.io/plan">/plan</a>
-
-# 2019208013 김규리
+# home
 ***
+-<a href="/asdf130700.github.io/index">/home</a>
 # aboutme
 ***
+-<a href="/asdf130700.github.io/aboutme">/aboutme</a>
 # fork
 ***
+-<a href="/asdf130700.github.io/fork">/fork</a>
+# plan
+***
+-<a href="/asdf130700.github.io/plan">/plan</a>
