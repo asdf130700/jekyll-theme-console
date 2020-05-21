@@ -12,10 +12,10 @@ url : http://github.com/asdf130700
 
 # home
 ***
-<a href="/asdf130700.github.io/index">/</a>
+-<a href="/asdf130700.github.io/index">home</a>
 # aboutme
 ***
--<a href="/asdf130700.github.io/aboutme">자기소개서/a>
+-<a href="/asdf130700.github.io/aboutme">자기소개서</a>
 # fork
 ***
 -<a href="/asdf130700.github.io/fork">fork 리스트</a>
